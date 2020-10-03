@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Домашная робота\Interfaces\bin\Debug\Interfaces.exe.config
+F:\ITStep\2 курс\C#\Домашная робота\Interfaces\bin\Debug\Interfaces.exe
+F:\ITStep\2 курс\C#\Домашная робота\Interfaces\bin\Debug\Interfaces.pdb
+F:\ITStep\2 курс\C#\Домашная робота\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Домашная робота\Interfaces\obj\Debug\Interfaces.exe
+F:\ITStep\2 курс\C#\Домашная робота\Interfaces\obj\Debug\Interfaces.pdb
